@@ -8,7 +8,7 @@ It supports basic arithmetic operations with a vibrant UI placed over a Hyderaba
 
 ## 📸 Project Preview
 
-![Calculator Screenshot](./CALCULATOR.png)
+<img width="960" height="445" alt="CALCULATOR" src="https://github.com/user-attachments/assets/2fdcc875-dd04-449b-9c17-4dae156f5c38" />
 
 ---
 
