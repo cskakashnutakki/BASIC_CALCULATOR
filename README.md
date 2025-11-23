@@ -36,13 +36,14 @@ It supports basic arithmetic operations with a vibrant UI placed over a Hyderaba
 
 ## 📂 Project Structure
 
- . <br>
-├── calculator(project).html   # Main calculator page <br>
-├── calculator(project).css    # Styles for layout & buttons <br>
-├── calculator(project).js     # (Reserved for JS, minimal in this version) <br>
-└── CALCULATOR.png             # Project demo screenshot
+```
+📦 Basic Calculator
+├── calculator(project).html       # Main calculator page <br>
+├── calculator(project).css        # Styles for layout & buttons <br>
+├── calculator(project).js         # (Reserved for JS, minimal in this version) <br>
+└── CALCULATOR.png                 # Project demo screenshot
 
-
+```
 ---
 
 ## 🚀 Getting Started
